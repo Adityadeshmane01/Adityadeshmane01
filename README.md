@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Aditya 👋<br><br>🎓 Third-Year IT Student (CGPA: 9.07)<br>💼 Former Full Stack Developer Intern<br>⚡ Interested in Software Engineering, Web Development, and Problem Solving<br><br>I enjoy transforming ideas into functional applications and continuously improving my development skills through projects and DSA practice.<br><br>🔹 React.js | JavaScript | Java | C++ | Python<br>🔹 SQL | MongoDB | Supabase<br>🔹 Git | GitHub | Vercel<br><br>Currently preparing for Software Engineering internships and opportunities.
+Hi, I'm Aditya 👋<br><br>🎓 Third-Year IT Student (CGPA: 9.07)<br>💼 Full Stack Developer <br>⚡ Interested in Software Engineering, Web Development, and Problem Solving<br><br>I enjoy transforming ideas into functional applications and continuously improving my development skills through projects and DSA practice.<br><br>🔹 React.js | JavaScript | Java | C++ | Python<br>🔹 SQL | MongoDB | Supabase<br>🔹 Git | GitHub | Vercel<br><br>Currently preparing for Software Engineering internships and opportunities.
 
 
 ## 🌐 Socials:
